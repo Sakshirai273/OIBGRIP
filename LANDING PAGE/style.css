@@ -116,3 +116,9 @@ header ul li a
     background:#b06a38;
     clip-path: circle(678px at right 800px);
 }
+
+.last{
+    display: inline-block;
+    align-items:flex-start;
+    position: relative;
+}
